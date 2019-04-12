@@ -1,0 +1,19 @@
+127.0.0.1:3000/index.php
+localhost:3000/demo/index.php
+192.168.1.152
+
+http://localhost/phpmyadmin
+
+localhost:3306/index.php
+localhost/index.php
+
+github.com网站：3240821781@qq.com     123123uqsgyak
+http://s7mc6u.natappfree.cc/index.php
+
+
+id title content city
+shockwave flash object卸载
+模块"shdocvw.dll"已加载，但找不到入口点Dllregisterserver
+
+请确保"shdocvw.dll"为有效的DLL或OCX文件，然后重试
+
